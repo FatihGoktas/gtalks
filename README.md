@@ -6,6 +6,8 @@ Web adresi: https://gtalks.albatrosapps.workers.dev
 
 ## İndir
 
+Son sürüm: **0.1.2**. Tüm sürümler: [sürüm sayfası](https://github.com/FatihGoktas/gtalks/releases).
+
 - Windows: [GTalks-Kurulum.zip](https://github.com/FatihGoktas/gtalks/releases/latest/download/GTalks-Kurulum.zip)
 - macOS: [GTalks-mac.dmg](https://github.com/FatihGoktas/gtalks/releases/latest/download/GTalks-mac.dmg)
 
@@ -25,6 +27,12 @@ Uygulama henüz imzalı değildir. Bu nedenle uyarı çıkar.
 2. `GTalks` uygulamasını "Uygulamalar" klasörüne sürükleyin.
 
 Uygulama Apple tarafından onaylıdır.
+
+## Yenilikler (0.1.2)
+
+- Aynı hesapla ikinci bir pencereden odaya katılırsanız eski pencere odadan çıkar. Eski pencerede bir uyarı görünür.
+- Uygulama içindeki indirme bağlantıları artık GitHub sürüm sayfasını açar.
+- Bağlantı ve test düzeltmeleri.
 
 ## Dosyayı doğrula
 
