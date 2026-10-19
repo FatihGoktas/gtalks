@@ -6,7 +6,7 @@ Web adresi: https://gtalks.albatrosapps.workers.dev
 
 ## İndir
 
-Son sürüm: **0.1.2**. Tüm sürümler: [sürüm sayfası](https://github.com/FatihGoktas/gtalks/releases).
+Son sürüm: **0.1.3**. Tüm sürümler: [sürüm sayfası](https://github.com/FatihGoktas/gtalks/releases).
 
 - Windows: [GTalks-Kurulum.zip](https://github.com/FatihGoktas/gtalks/releases/latest/download/GTalks-Kurulum.zip)
 - macOS: [GTalks-mac.dmg](https://github.com/FatihGoktas/gtalks/releases/latest/download/GTalks-mac.dmg)
@@ -28,11 +28,15 @@ Uygulama henüz imzalı değildir. Bu nedenle uyarı çıkar.
 
 Uygulama Apple tarafından onaylıdır.
 
-## Yenilikler (0.1.2)
+## Yenilikler (0.1.3)
 
-- Aynı hesapla ikinci bir pencereden odaya katılırsanız eski pencere odadan çıkar. Eski pencerede bir uyarı görünür.
-- Uygulama içindeki indirme bağlantıları artık GitHub sürüm sayfasını açar.
-- Bağlantı ve test düzeltmeleri.
+- Gürültü engelleme tek düğme oldu. Kapı sadece insan sesine açılır.
+- Her kişinin sesini %0 ile %200 arasında ayarlayın.
+- Oda listesinde her odadaki kişiler görünür. Odadayken diğer odalar üstte görünür.
+- Kısayol tuşları: mikrofonu ve sesi aç/kapat.
+- Mini pencerede raptiye: tam ekran uygulamaların üstünde kalır.
+- Bir hesap aynı anda sadece bir sesli sohbette olur.
+- Üyeler bir kişiyi sesli sohbetten çıkarabilir ve oda adını değiştirebilir.
 
 ## Dosyayı doğrula
 
